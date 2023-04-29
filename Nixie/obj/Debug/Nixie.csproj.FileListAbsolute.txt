@@ -1,0 +1,8 @@
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\Nixie.csprojResolveAssemblyReference.cache
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\Nixie.MainForm.resources
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\Nixie.csproj.GenerateResource.Cache
+C:\Users\ifwz\Desktop\Nixie\Nixie\bin\Debug\西梅时钟.exe.config
+C:\Users\ifwz\Desktop\Nixie\Nixie\bin\Debug\西梅时钟.exe
+C:\Users\ifwz\Desktop\Nixie\Nixie\bin\Debug\西梅时钟.pdb
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\西梅时钟.exe
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\西梅时钟.pdb
