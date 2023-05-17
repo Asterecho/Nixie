@@ -1,0 +1,16 @@
+C:\Users\ifwz\Desktop\Nixie\Nixie\bin\Debug\Nixie.exe.config
+C:\Users\ifwz\Desktop\Nixie\Nixie\bin\Debug\Nixie.exe
+C:\Users\ifwz\Desktop\Nixie\Nixie\bin\Debug\Nixie.pdb
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\Nixie.csprojResolveAssemblyReference.cache
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\Nixie.MainForm.resources
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\Nixie.csproj.GenerateResource.Cache
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\Nixie.exe
+C:\Users\ifwz\Desktop\Nixie\Nixie\obj\Debug\Nixie.pdb
+C:\Users\ifwz\Desktop\DivergenceMeter\Nixie\obj\Debug\Nixie.csprojResolveAssemblyReference.cache
+C:\Users\ifwz\Desktop\DivergenceMeter\Nixie\obj\Debug\Nixie.MainForm.resources
+C:\Users\ifwz\Desktop\DivergenceMeter\Nixie\obj\Debug\Nixie.csproj.GenerateResource.Cache
+C:\Users\ifwz\Desktop\DivergenceMeter\Nixie\bin\Debug\Nixie.exe.config
+C:\Users\ifwz\Desktop\DivergenceMeter\Nixie\bin\Debug\Nixie.exe
+C:\Users\ifwz\Desktop\DivergenceMeter\Nixie\bin\Debug\Nixie.pdb
+C:\Users\ifwz\Desktop\DivergenceMeter\Nixie\obj\Debug\Nixie.exe
+C:\Users\ifwz\Desktop\DivergenceMeter\Nixie\obj\Debug\Nixie.pdb
